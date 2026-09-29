@@ -7,6 +7,7 @@ import sqlIndexes from './topics/sql-indexes.js'
 import sqlTransactions from './topics/sql-transactions.js'
 import sqlAcid from './topics/sql-acid.js'
 import sqlNormalization from './topics/sql-normalization.js'
+import sqlViewsProcedures from './topics/sql-views-procedures.js'
 
 const sqlTopics = [
   sqlFundamentals,
@@ -18,6 +19,7 @@ const sqlTopics = [
   sqlTransactions,
   sqlAcid,
   sqlNormalization,
+  sqlViewsProcedures,
 ]
 
 export default sqlTopics

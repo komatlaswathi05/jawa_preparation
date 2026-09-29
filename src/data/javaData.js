@@ -4,6 +4,7 @@ import javaStrings from './topics/java-strings.js'
 import javaExceptions from './topics/java-exceptions.js'
 import javaCollections from './topics/java-collections.js'
 import java8 from './topics/java-8.js'
+import javaModern from './topics/java-modern.js'
 import javaMultithreading from './topics/java-multithreading.js'
 import javaJvm from './topics/java-jvm.js'
 import javaGenerics from './topics/java-generics.js'
@@ -23,6 +24,7 @@ const javaTopics = [
   javaExceptions,
   javaCollections,
   java8,
+  javaModern,
   javaMultithreading,
   javaJvm,
   javaGenerics,
