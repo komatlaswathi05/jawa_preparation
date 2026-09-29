@@ -18,7 +18,7 @@ npm run lint
 - **Dashboard**: overall and per-category progress, statistics, and a "Continue Learning" card that points to the first topic you haven't completed.
 - **Topic pages**: every topic uses the same layout. Each page has an overview, topics to learn, important concepts with code examples, common mistakes, interview tips, interview questions and related coding questions. There is also a "Mark as Completed" button and previous/next navigation.
 - **Interview questions**: questions grouped into Java, Spring Boot and SQL banks, with difficulty filters. Each question has an answer, an example and key points.
-- **Coding questions**: more than 100 problems in 10 categories, each with a Java (or SQL) solution and a complexity analysis.
+- **Coding questions**: 180 problems in 15 categories, including linked lists, trees, stacks and queues, graphs and dynamic programming, each with a Java (or SQL) solution and a complexity analysis.
 - **Mock interview**: random questions by subject and difficulty. You grade yourself, get a score at the end, and past results are kept in a history.
 - **Progress**: progress bars for every category, a study streak and a reset button.
 - **Search**: global search across topics, concepts, interview questions and coding questions. Press `/` or `Ctrl/Cmd + K` to focus it.

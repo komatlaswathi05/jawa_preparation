@@ -6,6 +6,7 @@ import javaCollections from './topics/java-collections.js'
 import java8 from './topics/java-8.js'
 import javaModern from './topics/java-modern.js'
 import javaMultithreading from './topics/java-multithreading.js'
+import javaConcurrencyUtilities from './topics/java-concurrency-utilities.js'
 import javaJvm from './topics/java-jvm.js'
 import javaGenerics from './topics/java-generics.js'
 import javaEnums from './topics/java-enums.js'
@@ -26,6 +27,7 @@ const javaTopics = [
   java8,
   javaModern,
   javaMultithreading,
+  javaConcurrencyUtilities,
   javaJvm,
   javaGenerics,
   javaEnums,
